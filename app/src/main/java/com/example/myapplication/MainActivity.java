@@ -19,7 +19,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /*
- *@author:Heloísa Santana da Silva
+ *@author:Heloísa Santana da Sila
  */
 public class MainActivity extends AppCompatActivity {
 
